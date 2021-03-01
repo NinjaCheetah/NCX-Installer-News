@@ -1,0 +1,1 @@
+v3.1 is out now, featuring the return of the light theme as well as brand new features like a dymanic XStore and neat buttons. Available now in NCX-Core Updater.
